@@ -4,6 +4,26 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "nodemon": "^2.0.7"
-  }
+    "nodemon": "^2.0.7",
+    "superagent": "^6.1.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "city_explorer_301_api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliShiyyab/City_Explorer_301_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliShiyyab/City_Explorer_301_API/issues"
+  },
+  "homepage": "https://github.com/AliShiyyab/City_Explorer_301_API#readme"
 }
